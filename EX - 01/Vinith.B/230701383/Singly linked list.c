@@ -1,3 +1,4 @@
+//vinith.B,230701383
 #include <stdio.h>
 #include <stdlib.h>
 // Define the structure for a node in the linked list
